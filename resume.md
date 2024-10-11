@@ -1,2 +1,3 @@
 Isabelle Brase
-Northeastern University 2024-current
+Northeastern University '28
+Computer Science & Economics Major
