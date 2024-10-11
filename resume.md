@@ -1,0 +1,2 @@
+Isabelle Brase
+Northeastern University 2024-current
